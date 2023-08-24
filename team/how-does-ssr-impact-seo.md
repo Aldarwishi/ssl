@@ -1,6 +1,6 @@
 <h1 align="center">How does SSR impact SEO</h1>
 
-<h1 align="center">### Server-side rendering can have a significant impact on SEO for a number of reasons.</h1>
+<h1 align="center">Server-side rendering can have a significant impact on SEO for a number of reasons.</h1>
 
 1. **Improved indexing:** One of the main benefits of server-side rendering for SEO is that it allows search engines to better index and understand the content of a webpage.
 

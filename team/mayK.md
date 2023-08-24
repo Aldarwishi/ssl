@@ -59,4 +59,5 @@ Easier caching: pages can be cached on the server-side, which can further improv
 Overall, server-side rendering can provide a faster and more efficient user experience, as well as improve search engine optimization and accessibility.
 
 [ref.](https://nuxt.com/docs/getting-started/introduction)
-![image]([https://files.codingninjas.in/article_images/server-side-rendering-in-vue-js-1-1639122317.jpg](https://files.codingninjas.in/article_images/server-side-rendering-in-vue-js-1-1639122317.jpg)https://files.codingninjas.in/article_images/server-side-rendering-in-vue-js-1-1639122317.jpg)
+
+![image](https://files.codingninjas.in/article_images/server-side-rendering-in-vue-js-1-1639122317.jpg)

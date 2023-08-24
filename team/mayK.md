@@ -21,7 +21,7 @@ The React button.onClick prop tells React to create a button DOM element and att
 
 ### **Technologies and Tools:**
 
-1. <h4>**Next.js**</h4> is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
+1. **<h4>Next.js</h4>** is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 
 Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration.
 
@@ -45,7 +45,7 @@ Feature:
 [ref.](https://nextjs.org/docs)
 ![imag](https://asperbrothers.com/wp-content/uploads/2021/07/ssr.png)
 
-2. <h4>**Nuxt.js**</h4> is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
+2. **<h4>Nuxt.js</h4>** is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
 We made everything so you can start writing .vue files from the beginning while enjoying hot module replacement in development and a performant application in production with server-side rendering by default.
 Nuxt has no vendor lock-in, allowing you to deploy your application anywhere, even to the edge.
 

@@ -1,2 +1,2 @@
-# ssl
+# SSR
 server side rendering project

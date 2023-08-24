@@ -61,3 +61,6 @@ Overall, server-side rendering can provide a faster and more efficient user expe
 [ref.](https://nuxt.com/docs/getting-started/introduction)
 
 ![image](https://files.codingninjas.in/article_images/server-side-rendering-in-vue-js-1-1639122317.jpg)
+
+
+![imag](https://asperbrothers.com/wp-content/uploads/2021/07/ssr.png)

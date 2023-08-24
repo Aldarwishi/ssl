@@ -4,8 +4,8 @@
  The web browser submits a request for information from the server, which instantly responds by sending a fully rendered page to the client.
  Search engines can crawl and index content prior to delivery, which is beneficial for Search Engine Optimization purposes.Popular examples
  of **server-side rendering** **JavaScript frameworks** include: *Angular server side rendering
-> ejs server side rendering, server side rendering Express,
-> Gatsby server side rendering
+* ejs server side rendering, server side rendering Express,
+* Gatsby server side rendering
 * Google server side rendering
 * NestJS server side rendering
 * Next server side rendering

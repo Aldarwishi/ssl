@@ -2,7 +2,7 @@
 
 ## Server-side rendering can have a significant impact on SEO for a number of reasons.
 
-1. **Improved indexing:** One of the main benefits of server-side rendering for SEO is that it allows search engines to better index and understand the content of a webpage.
+1.**Improved indexing:** One of the main benefits of server-side rendering for SEO is that it allows search engines to better index and understand the content of a webpage.
 
 2. **Faster loading times:** Server-side rendering can also improve the loading times of a webpage, which is an important factor in SEO.
 

@@ -1,6 +1,6 @@
 ## **SSR Workflow:**
 
-# The workflow to achieve SSR is as follows:
+### The workflow to achieve SSR is as follows:
 
 1. Server-side: generate HTML from React via renderToString or via one of the renderTo*Stream APIs.
 2. Client-side: fetch the HTML and JS as per usual (e.g., HTTP response). The HTML payload generates the initial DOM and loads the client-side React.
@@ -19,9 +19,9 @@ The React button.onClick prop tells React to create a button DOM element and att
 
 [ref.](https://www.gatlin.io/content/react-ssr-server-side-rendering)
 
-## ** Technologies and Tools:**
+### **Technologies and Tools:**
 
-1. **### Next.js** is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
+1. **#### Next.js** is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 
 Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration.
 

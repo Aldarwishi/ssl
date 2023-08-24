@@ -1,6 +1,6 @@
-**##SSR Workflow:**
+**## SSR Workflow:**
 
-#The workflow to achieve SSR is as follows:
+# The workflow to achieve SSR is as follows:
 
 1. Server-side: generate HTML from React via renderToString or via one of the renderTo*Stream APIs.
 2. Client-side: fetch the HTML and JS as per usual (e.g., HTTP response). The HTML payload generates the initial DOM and loads the client-side React.
@@ -19,7 +19,7 @@ The React button.onClick prop tells React to create a button DOM element and att
 
 [ref.](https://www.gatlin.io/content/react-ssr-server-side-rendering)
 
-**##Technologies and Tools:**
+**## Technologies and Tools:**
 
 1. **### Next.js** is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 
@@ -45,7 +45,7 @@ Feature:
 [ref.](https://nextjs.org/docs)
 ![imag](https://asperbrothers.com/wp-content/uploads/2021/07/ssr.png)
 
-2. **Nuxt** is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
+2. **Nuxt.js** is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
 We made everything so you can start writing .vue files from the beginning while enjoying hot module replacement in development and a performant application in production with server-side rendering by default.
 Nuxt has no vendor lock-in, allowing you to deploy your application anywhere, even to the edge.
 

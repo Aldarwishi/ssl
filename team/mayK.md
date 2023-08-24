@@ -1,4 +1,4 @@
-**## SSR Workflow:**
+** ## SSR Workflow:**
 
 # The workflow to achieve SSR is as follows:
 

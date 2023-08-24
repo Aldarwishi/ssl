@@ -1,4 +1,4 @@
-# How does SSR impact SEO
+<h1 align="center">How does SSR impact SEO</h1>
 
 ### Server-side rendering can have a significant impact on SEO for a number of reasons
 

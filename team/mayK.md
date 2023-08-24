@@ -1,4 +1,4 @@
-**## SSR Workflow:**
+## **SSR Workflow:**
 
 # The workflow to achieve SSR is as follows:
 
@@ -19,7 +19,7 @@ The React button.onClick prop tells React to create a button DOM element and att
 
 [ref.](https://www.gatlin.io/content/react-ssr-server-side-rendering)
 
-**## Technologies and Tools:**
+## ** Technologies and Tools:**
 
 1. **### Next.js** is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 

@@ -17,7 +17,7 @@ For example, let's consider a simple button component.
 
 The React button.onClick prop tells React to create a button DOM element and attach the function () => setX(x + 1) as a listener callback to the click event. That JS gets stripped when you generate the HTML. For example, if you called renderToStaticMarkup, you'd get the following.
 
-[ref.](https://www.gatlin.io/content/react-ssr-server-side-rendering)
+[Resource](https://www.gatlin.io/content/react-ssr-server-side-rendering)
 
 ### **Technologies and Tools:**
 
@@ -42,7 +42,7 @@ Feature:
 6. **TypeScript**
 	Improved support for TypeScript, with better type checking and more efficient compilation, as well as custom TypeScript Plugin and type checker.
 
-[ref.](https://nextjs.org/docs)
+[Resource](https://nextjs.org/docs)
 ![imag](https://asperbrothers.com/wp-content/uploads/2021/07/ssr.png)
 
 2. **<h4>Nuxt.js</h4>** is a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
